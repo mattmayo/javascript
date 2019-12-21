@@ -1,0 +1,24 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattmayo/javascript.git"
+  },
+  "author": "Matt Mayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattmayo/javascript/issues"
+  },
+  "homepage": "https://github.com/mattmayo/javascript#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "prettier": "1.19.1"
+  }
+}
